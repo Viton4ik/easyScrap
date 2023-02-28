@@ -14,6 +14,10 @@ npm install puppeteer
 ```sh
 example: https://www.reddit.com/r/interestingasfuck/
 ```
+> - use Node.js
+```sh
+node scraper.js
+```
 > - get a topic name
 ```sh
 {
